@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/iamyoki/go-github-release-demo/compare/v0.5.0...v0.5.1) (2026-04-01)
+
+
+### 🧰 Maintenance
+
+* fix go version ([d5b7765](https://github.com/iamyoki/go-github-release-demo/commit/d5b77659e94a394956586cd44c9febc3268ddb34))
+
 ## [0.5.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.4.0...v0.5.0) (2026-04-01)
 
 
