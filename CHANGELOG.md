@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.3.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.2.0...v0.3.0) (2026-04-01)
+
+
+### 🚀 Features
+
+* add another hello world ([b26ee2f](https://github.com/iamyoki/go-github-release-demo/commit/b26ee2fc7638b05cb038d6ebb2bd477e6315c8cf))
+
+
+### 🧰 Maintenance
+
+* add .release-please-manifest.json ([c768b3f](https://github.com/iamyoki/go-github-release-demo/commit/c768b3f5dcdc6625cf2af7828cede49e2b3c1c57))
+* config ([f56b4e2](https://github.com/iamyoki/go-github-release-demo/commit/f56b4e2b7b051cc6c535e64aa672d4335d3cb10e))
+* fix manifest version ([50a2b2e](https://github.com/iamyoki/go-github-release-demo/commit/50a2b2e8f08a4091d90d5ce28a8fc03ab8784bc5))
+* read from config ([5b2797d](https://github.com/iamyoki/go-github-release-demo/commit/5b2797d10b0167ed00443f290a6fe1f9b8218668))
+
 ## [0.2.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.1.0...v0.2.0) (2026-04-01)
 
 
