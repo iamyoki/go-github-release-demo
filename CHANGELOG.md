@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.5.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.4.0...v0.5.0) (2026-04-01)
+
+
+### 🚀 Features
+
+* a new feature ([e17c4d5](https://github.com/iamyoki/go-github-release-demo/commit/e17c4d5c1ae42b2f432fa5c523c3dbe13dc57cd4))
+
+
+### 🐛 Bug Fixes
+
+* config ([dcefdb4](https://github.com/iamyoki/go-github-release-demo/commit/dcefdb4ace2f5161d20eb29da2759a126e564a9d))
+* true ([0aedb1f](https://github.com/iamyoki/go-github-release-demo/commit/0aedb1f6f6be214e711ae376cafe210d0dde8c71))
+
 ## [0.4.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.3.2...v0.4.0) (2026-04-01)
 
 
