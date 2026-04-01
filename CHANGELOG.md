@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/iamyoki/go-github-release-demo/compare/v0.3.0...v0.3.1) (2026-04-01)
+
+
+### 🐛 Bug Fixes
+
+* version.go ([e9cc9ff](https://github.com/iamyoki/go-github-release-demo/commit/e9cc9ff9fed5c2eab2f6ba406c7cee2f5e1c9a05))
+
 ## [0.3.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.2.0...v0.3.0) (2026-04-01)
 
 
