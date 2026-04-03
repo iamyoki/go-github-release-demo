@@ -69,17 +69,11 @@ for (const t of targets) {
     path.join(pkgDir, t.name),
   );
   console.log(`✅ Prepared ${pkgName} binary`);
-
-  // publish
-  execSync("pnpm publish --provenance --access public --no-git-checks", {
-    cwd: pkgDir,
-    stdio: "inherit",
-  });
-  console.log(`🚀 Published ${pkgName}`);
 }
 
-// publish root pkg
-execSync("pnpm publish --provenance --access public --no-git-checks", {
+// publish
+execSync("pnpm -r publish --provenance --access public --no-git-checks", {
+  cwd: npmDir,
   stdio: "inherit",
 });
-console.log(`🚀 Published root package`);
+console.log(`🚀 Published all packages to npm`);
