@@ -1,0 +1,15 @@
+[
+  { "goos": "darwin", "goarch": "arm64", "npmos": "darwin", "npmcpu": "arm64" },
+  { "goos": "darwin", "goarch": "amd64", "npmos": "darwin", "npmcpu": "x64" },
+  { "goos": "linux", "goarch": "arm64", "npmos": "linux", "npmcpu": "arm64" },
+  { "goos": "linux", "goarch": "amd64", "npmos": "linux", "npmcpu": "x64" },
+  { "goos": "linux", "goarch": "386", "npmos": "linux", "npmcpu": "ia32" },
+  {
+    "goos": "windows",
+    "goarch": "arm64",
+    "npmos": "windows",
+    "npmcpu": "arm64"
+  },
+  { "goos": "windows", "goarch": "amd64", "npmos": "windows", "npmcpu": "x64" },
+  { "goos": "windows", "goarch": "386", "npmos": "windows", "npmcpu": "ia32" }
+]

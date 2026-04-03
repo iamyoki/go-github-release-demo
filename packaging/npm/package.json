@@ -1,0 +1,31 @@
+{
+  "name": "go-github-release-demo",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "A best-practice demo for release go project and publish to npm",
+  "main": "bin.js",
+  "bin": "bin.js",
+  "files": [
+    "bin.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "iamyoki",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319",
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  },
+  "optionalDependencies": {
+    "go-github-release-demo-linux-arm64": "0.0.0",
+    "go-github-release-demo-linux-x64": "0.0.0",
+    "go-github-release-demo-windows-ia32": "0.0.0",
+    "go-github-release-demo-linux-ia32": "0.0.0",
+    "go-github-release-demo-darwin-x64": "0.0.0",
+    "go-github-release-demo-windows-arm64": "0.0.0",
+    "go-github-release-demo-windows-x64": "0.0.0",
+    "go-github-release-demo-darwin-arm64": "0.0.0"
+  }
+}
