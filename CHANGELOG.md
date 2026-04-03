@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.3](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.2...v0.8.3) (2026-04-03)
+
+
+### 🧰 Maintenance
+
+* add --no-git-checks ([1fcac5d](https://github.com/iamyoki/go-github-release-demo/commit/1fcac5d41db1ba11ace34e22c27f0043c2b63f22))
+
 ## [0.8.2](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.1...v0.8.2) (2026-04-03)
 
 
