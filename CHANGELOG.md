@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.6](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.5...v0.8.6) (2026-04-03)
+
+
+### 🐛 Bug Fixes
+
+* package config ([3bdf608](https://github.com/iamyoki/go-github-release-demo/commit/3bdf6084d40572a33ace8408078d3950395b0f28))
+
 ## [0.8.5](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.4...v0.8.5) (2026-04-03)
 
 
