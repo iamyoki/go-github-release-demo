@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.6.1](https://github.com/iamyoki/go-github-release-demo/compare/v0.6.0...v0.6.1) (2026-04-03)
+
+
+### 🐛 Bug Fixes
+
+* pnpm config ([6a9f9e4](https://github.com/iamyoki/go-github-release-demo/commit/6a9f9e4c0832ab10e500e1b3cb2111f9ef5c5972))
+* pnpm version ([bb657f0](https://github.com/iamyoki/go-github-release-demo/commit/bb657f09d7bd9e9f9e90a3d5360d19537cf2cb4d))
+
 ## [0.6.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.5.1...v0.6.0) (2026-04-03)
 
 
