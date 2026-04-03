@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.2](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.1...v0.8.2) (2026-04-03)
+
+
+### 🧰 Maintenance
+
+* publish npm ([0b00d69](https://github.com/iamyoki/go-github-release-demo/commit/0b00d69d15dd4637741b110f54536df809f4c6ef))
+
 ## [0.8.1](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.0...v0.8.1) (2026-04-03)
 
 
