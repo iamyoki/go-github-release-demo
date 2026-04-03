@@ -65,7 +65,8 @@ jobs:
           path: dist
       - name: Install pnpm
         uses: pnpm/action-setup@v5
-        working-directory: packaging/scripts
+        with:
+          version: latest
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
