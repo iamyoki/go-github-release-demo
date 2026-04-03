@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.1](https://github.com/iamyoki/go-github-release-demo/compare/v0.7.0...v0.7.1) (2026-04-03)
+
+
+### 🐛 Bug Fixes
+
+* cache pnpm ([7672e64](https://github.com/iamyoki/go-github-release-demo/commit/7672e646d40971ea73f4be23791b75e69fab26dd))
+
 ## [0.7.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.6.1...v0.7.0) (2026-04-03)
 
 
