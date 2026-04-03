@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.4](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.3...v0.8.4) (2026-04-03)
+
+
+### 🐛 Bug Fixes
+
+* publish-npm ([00031ea](https://github.com/iamyoki/go-github-release-demo/commit/00031ea88bf8e8c7c48f9e8519804c19bd7a691b))
+
 ## [0.8.3](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.2...v0.8.3) (2026-04-03)
 
 
