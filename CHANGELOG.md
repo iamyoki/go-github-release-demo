@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.5.1...v0.6.0) (2026-04-03)
+
+
+### 🚀 Features
+
+* add demo ([8a6ae96](https://github.com/iamyoki/go-github-release-demo/commit/8a6ae9661a5a4958d4d15eb96fcceaf3f0bb5188))
+
 ## [0.5.1](https://github.com/iamyoki/go-github-release-demo/compare/v0.5.0...v0.5.1) (2026-04-01)
 
 
