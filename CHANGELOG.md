@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.5](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.4...v0.8.5) (2026-04-03)
+
+
+### 🐛 Bug Fixes
+
+* add registry url ([a7fa949](https://github.com/iamyoki/go-github-release-demo/commit/a7fa94975fe85d548bc821ddffdbdf1c0d757667))
+
 ## [0.8.4](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.3...v0.8.4) (2026-04-03)
 
 
