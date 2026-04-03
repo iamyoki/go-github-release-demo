@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.1](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.0...v0.8.1) (2026-04-03)
+
+
+### 🐛 Bug Fixes
+
+* node pnpm cache ([ed3ed6d](https://github.com/iamyoki/go-github-release-demo/commit/ed3ed6d57e603783ab03b501f12153a271956f42))
+
 ## [0.8.0](https://github.com/iamyoki/go-github-release-demo/compare/v0.7.1...v0.8.0) (2026-04-03)
 
 
