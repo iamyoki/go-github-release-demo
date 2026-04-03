@@ -53,6 +53,7 @@ for (const t of targets) {
     os: [t.npmos],
     cpu: [t.npmcpu],
     files: [t.name],
+    repository: "github:iamyoki/go-github-release-demo",
   };
   // write package.json
   await writeFile(
