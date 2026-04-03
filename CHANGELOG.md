@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.7](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.6...v0.8.7) (2026-04-03)
+
+
+### 🐛 Bug Fixes
+
+* publish cwd ([c7708ab](https://github.com/iamyoki/go-github-release-demo/commit/c7708ab0d05866b5fed45f14ebd44815f1f250fa))
+
 ## [0.8.6](https://github.com/iamyoki/go-github-release-demo/compare/v0.8.5...v0.8.6) (2026-04-03)
 
 
