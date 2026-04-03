@@ -71,5 +71,7 @@ for (const t of targets) {
 }
 
 // publish
-execSync("pnpm -r publish --provenance --access public", { stdio: "inherit" });
+execSync("pnpm -r publish --provenance --access public --no-git-checks", {
+  stdio: "inherit",
+});
 console.log(`🚀 Published all npm packages`);
