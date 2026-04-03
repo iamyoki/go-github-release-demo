@@ -70,7 +70,7 @@ for (const t of targets) {
   console.log(`✅ Prepared ${pkgName} binary`);
 
   // publish
-  execSync("pnpm -r publish --provenance --access public --no-git-checks", {
+  execSync("pnpm publish --provenance --access public --no-git-checks", {
     cwd: pkgDir,
     stdio: "inherit",
   });
